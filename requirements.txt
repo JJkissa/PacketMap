@@ -1,0 +1,2 @@
+scapy==2.6.1
+maxminddb==3.1.1

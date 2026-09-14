@@ -1,0 +1,10 @@
+{
+  "source": "https://download.db-ip.com/free/dbip-city-lite-2026-09.mmdb.gz",
+  "release": "2026-09",
+  "database_type": "DBIP-City-Lite",
+  "build_epoch": 1788226681,
+  "bytes": 127339927,
+  "sha256": "05a10861259c7966cb54d7181ef8c360de8c8829d182098c0e62a9b7d54cd50d",
+  "license": "CC BY 4.0",
+  "attribution": "https://db-ip.com"
+}

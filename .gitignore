@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+data/*.mmdb
+data/*.gz
+data/mac-vendors*
+tests/*-screenshot.png
+tests/local-explanation.png
